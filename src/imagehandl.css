@@ -1,0 +1,14 @@
+.img1
+{
+    height: 120px;
+    width: 120px;
+}
+.nav
+{
+  background: linear-gradient(90deg, #00a8cc, #72edf2);
+}
+
+body {
+  background: linear-gradient(135deg, #ffe8d6, #f8edeb, #e0f7fa);
+  font-family: 'Poppins', sans-serif;
+}
